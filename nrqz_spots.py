@@ -1,7 +1,7 @@
 # from typing import Mapping, MutableMapping, Sequence, Iterable
 
 import json
-from typing import List, Tuple
+from typing import List
 from dataclasses import dataclass
 import requests as req
 
